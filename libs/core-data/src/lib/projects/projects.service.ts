@@ -38,7 +38,7 @@ export class ProjectsService {
   }
 
   private urlWithId(id: string) {
-    return `${url()}/${id}`
+    return `${this.url()}/${id}`
   }
 
 }
