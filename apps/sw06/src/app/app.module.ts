@@ -22,7 +22,8 @@ import { ProjectDetailsComponent } from './projects/project-details/project-deta
     MaterialModule,
     CoreDataModule,
     UiToolbarModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]
